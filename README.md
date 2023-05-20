@@ -16,7 +16,7 @@ Pastikan kamu menonton videonya terlebih dahulu sebelum menyalin apapun dari sin
 
 </br>
 
-Tutorial #01 - Getting Started
+[Tutorial #01 - Getting Started](https://www.youtube.com/watch?v=uJfswISBqyo)
 
 </br>
 
