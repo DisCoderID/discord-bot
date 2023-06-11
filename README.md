@@ -17,6 +17,7 @@ Pastikan kamu menonton videonya terlebih dahulu sebelum menyalin apapun dari sin
 </br>
 
 [Tutorial #01 - Getting Started](https://www.youtube.com/watch?v=uJfswISBqyo)
+</br>
 [Tutorial #02 - Command with Prefix](https://www.youtube.com/watch?v=zT_p57KqpJA)
 
 </br>
